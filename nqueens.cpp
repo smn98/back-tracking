@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define D 10
-
+//I'll comment later
 void printSol(int** queen) 
 { 
     for (int i = 0; i < D; i++) 
