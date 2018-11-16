@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define D 4
-
+//I'll comment later :P
 void printSol(int* color){
 	printf("Solution Exists:"
             " Following are the assigned colors \n"); 
